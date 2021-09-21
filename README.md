@@ -1,5 +1,5 @@
 # Dino game
-## Технологии:
+## Technologies:
 * HTML;
 * CSS;
 * JS.
